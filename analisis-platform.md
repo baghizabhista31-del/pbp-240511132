@@ -29,3 +29,11 @@ Sumber
 
 4. Apple Developer — *App development*  
    https://developer.apple.com/develop/
+
+Refleksi
+
+Platform yang paling menarik bagi saya untuk dipelajari adalah Web karena aplikasi web dapat diakses melalui browser tanpa harus selalu memasang aplikasi di setiap perangkat. Selain itu, pengembangan web memberikan kesempatan untuk mempelajari HTML, CSS, JavaScript, serta cara kerja komunikasi antara client dan server. Saya berharap dapat membuat website yang bermanfaat dan mudah digunakan oleh orang lain.
+
+Tantangan terbesar yang saya hadapi saat menyiapkan lingkungan pengembangan adalah memastikan semua perangkat lunak terinstal dengan benar. Saya perlu memeriksa versi Git, Node.js, NPM, dan Java melalui CMD. Saya juga sempat mengalami kendala saat menentukan folder instalasi Android Studio karena folder yang dipilih tidak kosong. Selain itu, ketika melakukan clone repository GitHub, muncul peringatan bahwa repository masih kosong. Setelah diperiksa, hal tersebut terjadi karena belum ada file yang dimasukkan ke dalam repository.
+
+Untuk mengatasi tantangan tersebut, saya akan mengikuti dokumentasi resmi setiap perangkat lunak, membaca pesan kesalahan dengan teliti, dan mencari solusi secara bertahap. Saya juga akan berlatih menggunakan Visual Studio Code dan GitHub agar lebih terbiasa membuat file, melakukan commit, dan mengunggah perubahan ke repository. Dengan latihan yang konsisten, saya berharap dapat mengembangkan aplikasi dengan lebih baik pada pertemuan berikutnya.
